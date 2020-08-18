@@ -25,5 +25,5 @@ $ python main.py
 
 ## License
 
-&copy; 2020 [Ken Kurosaki](https://github.com/kenqlo).
+&copy; 2020 [Ken Kurosaki](https://github.com/kenqlo).  
 This project is [MIT](https://github.com/kenqlo/csv2tblpdf/blob/master/LICENSE) licensed.
